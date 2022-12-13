@@ -18,3 +18,6 @@ APP_DOMAIN=nftd.earth MORALIS_API_KEY=******************************** NEXTAUTH_
 In case if you dont have MORALIS_API_KEY, You can get it here, And You can generate NEXTAUTH_SECRET here. 3. Run App in Development
 
 npm run dev
+
+![image](https://user-images.githubusercontent.com/109898672/207433547-7e1cf738-eea7-4a3a-b21b-c9a1f35f813d.png)
+
