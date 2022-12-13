@@ -1,7 +1,7 @@
 
 Deployed URL: https://inquisitive-capybara-6290c8.netlify.app/mint-stable
 
-Deployed url with demo of staking aggregator ( LIDo and RPOOl only ) https://rad-truffle-c76806.netlify.app/
+Deployed url with demo of staking aggregator ( LIDO and RPOOL only ) https://rad-truffle-c76806.netlify.app/
 
 Press button MINT NFTD WITH YOUR STABLECOIN 
 
