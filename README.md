@@ -1,13 +1,12 @@
 
-Deployed URL: https://nftd.netlify.app Configuration Steps
+Deployed URL: https://inquisitive-capybara-6290c8.netlify.app/mint-stable
 
-    Clone this repository to your pc
+Deployed url with demo of staking aggregator ( LIDo and RPOOl only ) https://rad-truffle-c76806.netlify.app/
 
-    git clone https://github.com/arindewangan/nftd-earth.git
+Press button MINT NFTD WITH YOUR STABLECOIN 
 
-    Install Required dependencies and run
+![image](https://user-images.githubusercontent.com/109898672/207419470-9810cfe9-c5f3-44be-a0d5-62ebb9ca008c.png)
 
-    cd nftd-earth npm install
 
     Create .env.local file in root directory and write all these
 
