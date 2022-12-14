@@ -22,6 +22,17 @@ In case if you dont have MORALIS_API_KEY, You can get it here, And You can gener
 
 npm run dev
 
-![image](https://user-images.githubusercontent.com/109898672/207433547-7e1cf738-eea7-4a3a-b21b-c9a1f35f813d.png)
+![image](https://user-images.githubusercontent.com/109898672/207598100-5a957b33-4609-4177-8b40-6038972f1a51.png)
+![image](https://user-images.githubusercontent.com/109898672/207598223-80979be3-181f-467f-87d4-8de06e3eb64f.png)
+![image](https://user-images.githubusercontent.com/109898672/207598265-8f884ab0-2089-4970-b4dc-5fffc31cda88.png)
+![image](https://user-images.githubusercontent.com/109898672/207598302-292f39df-f0f6-4402-b977-202ddfb7f098.png)
+![image](https://user-images.githubusercontent.com/109898672/207598377-e372fbe5-3a84-4ab4-bcf4-04d0ea848aa4.png)
+![image](https://user-images.githubusercontent.com/109898672/207598429-aa38331c-1ce2-41b6-9069-dec4ee832972.png)
+![image](https://user-images.githubusercontent.com/109898672/207598495-0c924970-80f3-4f9c-b649-c27bc92e4fa5.png)
+![image](https://user-images.githubusercontent.com/109898672/207598530-0b55c32d-16d3-4710-92c7-ef62c1ac4f19.png)
+![image](https://user-images.githubusercontent.com/109898672/207598578-aa1abe26-31b0-45b7-ac01-c84852cfbf45.png)
+![image](https://user-images.githubusercontent.com/109898672/207598604-23e53cc0-f4c4-4974-a36b-da6f5cb88e37.png)
+![image](https://user-images.githubusercontent.com/109898672/207598661-12cb1ab3-3084-4217-8952-ed4ef524865c.png)
+
 
 
