@@ -5,6 +5,7 @@ https://app.pitch.com/app/presentation/151e1da6-50a4-4fd5-abc1-1839c2075fd7/20fb
 
 Live video :  
 https://www.youtube.com/watch?v=3IhTKVzyetY
+
 https://www.youtube.com/watch?v=SQLd_cIHap8
 
 Deployed URL: https://inquisitive-capybara-6290c8.netlify.app/mint-stable
