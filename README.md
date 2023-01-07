@@ -1,4 +1,12 @@
-PITCH in repo or here :  
+
+
+
+hiya please see conversation with your team mate Sinatra and allow s few days to fix the working link please , thank you:
+![image](https://user-images.githubusercontent.com/109898672/211153915-e648a1d5-ce6b-432f-bc24-955ac613f72e.png)
+
+![image](https://user-images.githubusercontent.com/109898672/211153877-2c8a2e08-bdb1-46be-ae9a-c21bae3d1901.png)
+
+TPITCH in repo or here :  
 https://docs.google.com/presentation/d/19ET3ec8mvUkUH9q8zFRlmzwR5pPyZWJVqB8xrun5o0Q/edit#slide=id.g1b92e0cf702_0_68
 
 https://app.pitch.com/app/presentation/151e1da6-50a4-4fd5-abc1-1839c2075fd7/20fbe252-78d8-4f83-80c2-33185b8f16bb/794b2049-ea48-4962-9483-9640341f3af2
